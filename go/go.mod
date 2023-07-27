@@ -1,4 +1,4 @@
-module github.com/AdrianeRibeiro/ImersaoFullCycle
+module github.com/AdrianeRibeiro/ImersaoFullCycle/go
 
 go 1.20
 
